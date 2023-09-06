@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Julov2/static/css/main.90247ba5.css",
+    "main.js": "/Julov2/static/js/main.ae3c7e53.js",
+    "static/js/787.d71c8db9.chunk.js": "/Julov2/static/js/787.d71c8db9.chunk.js",
+    "index.html": "/Julov2/index.html",
+    "main.90247ba5.css.map": "/Julov2/static/css/main.90247ba5.css.map",
+    "main.ae3c7e53.js.map": "/Julov2/static/js/main.ae3c7e53.js.map",
+    "787.d71c8db9.chunk.js.map": "/Julov2/static/js/787.d71c8db9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90247ba5.css",
+    "static/js/main.ae3c7e53.js"
+  ]
+}
